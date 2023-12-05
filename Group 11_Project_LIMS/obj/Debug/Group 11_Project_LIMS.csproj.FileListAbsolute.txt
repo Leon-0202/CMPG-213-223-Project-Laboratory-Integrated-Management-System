@@ -1,0 +1,89 @@
+D:\Projects\University\Year 2 Semester 1\CMPG 213\Group Project\04_Holiday Work\Early GUI\Group 11_Project_LIMS\bin\Debug\Group 11_Project_LIMS.exe.config
+D:\Projects\University\Year 2 Semester 1\CMPG 213\Group Project\04_Holiday Work\Early GUI\Group 11_Project_LIMS\bin\Debug\Group 11_Project_LIMS.exe
+D:\Projects\University\Year 2 Semester 1\CMPG 213\Group Project\04_Holiday Work\Early GUI\Group 11_Project_LIMS\bin\Debug\Group 11_Project_LIMS.pdb
+D:\Projects\University\Year 2 Semester 1\CMPG 213\Group Project\04_Holiday Work\Early GUI\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csprojAssemblyReference.cache
+D:\Projects\University\Year 2 Semester 1\CMPG 213\Group Project\04_Holiday Work\Early GUI\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.LoginForm.resources
+D:\Projects\University\Year 2 Semester 1\CMPG 213\Group Project\04_Holiday Work\Early GUI\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.Properties.Resources.resources
+D:\Projects\University\Year 2 Semester 1\CMPG 213\Group Project\04_Holiday Work\Early GUI\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csproj.GenerateResource.cache
+D:\Projects\University\Year 2 Semester 1\CMPG 213\Group Project\04_Holiday Work\Early GUI\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csproj.CoreCompileInputs.cache
+D:\Projects\University\Year 2 Semester 1\CMPG 213\Group Project\04_Holiday Work\Early GUI\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.exe
+D:\Projects\University\Year 2 Semester 1\CMPG 213\Group Project\04_Holiday Work\Early GUI\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.pdb
+D:\Projects\University\Year 2 Semester 1\CMPG 213\Group Project\04_Holiday Work\Early GUI\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.MainMenuForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\bin\Debug\Group 11_Project_LIMS.exe.config
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\bin\Debug\Group 11_Project_LIMS.exe
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\bin\Debug\Group 11_Project_LIMS.pdb
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csprojAssemblyReference.cache
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.AddWorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.DeleteWorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.EditWorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.EmployeesForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.LoginForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.MainMenuForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.Properties.Resources.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.WorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csproj.GenerateResource.cache
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csproj.CoreCompileInputs.cache
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.exe
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early GUI\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.pdb
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\bin\Debug\Group 11_Project_LIMS.exe.config
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\bin\Debug\Group 11_Project_LIMS.exe
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\bin\Debug\Group 11_Project_LIMS.pdb
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csproj.AssemblyReference.cache
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csproj.SuggestedBindingRedirects.cache
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.AddClientForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.AddEmployeeForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.AddWorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.ClientsForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.DeleteClientForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.DeleteEmployeeForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.DeleteWorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.EditClientForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.EditEmployeeForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.EditWorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.EmployeesForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.LoginForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.InvoiceConfirmationForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.InvoicesPaymentsForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.InvoiceWorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.MainMenuForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.Properties.Resources.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.ReceivePaymentForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.WorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csproj.GenerateResource.cache
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csproj.CoreCompileInputs.cache
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.exe
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.pdb
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.DisplayInvoice.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.WorkRequestsPerTime.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Early Process\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.SelectTimePeriodForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\bin\Debug\Group 11_Project_LIMS.exe.config
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\bin\Debug\Group 11_Project_LIMS.exe
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\bin\Debug\Group 11_Project_LIMS.pdb
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csproj.AssemblyReference.cache
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csproj.SuggestedBindingRedirects.cache
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.AddClientForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.AddEmployeeForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.AddWorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.ClientsForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.DeleteClientForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.DeleteEmployeeForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.DeleteWorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.DisplayInvoice.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.EditClientForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.EditEmployeeForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.EditWorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.EmployeesForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.LoginForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.InvoiceConfirmationForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.InvoicesPaymentsForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.InvoiceWorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.MainMenuForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.Properties.Resources.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.ReceivePaymentForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.SelectTimePeriodForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.WorkRequestForm.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group_11_Project_LIMS.WorkRequestsPerTime.resources
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csproj.GenerateResource.cache
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.csproj.CoreCompileInputs.cache
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.exe
+D:\Projects\University\Year 2 Semester 2\CMPG 223\Group Project\Full Version\Group 11_Project_LIMS\obj\Debug\Group 11_Project_LIMS.pdb
